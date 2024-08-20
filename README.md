@@ -31,10 +31,10 @@ To ensure reproducibility, the following steps should be followed:
 3. Follow the instructions in the `setup.md` file for detailed setup and configuration.
 
 ## Action Plan
-1. **Data Source**: Obtain student success prediction data from Kaggle.
-2. **Problem Statement**: Develop scripts to predict student success using a random forest model.
-3. **EDA**: Perform EDA using a Jupyter notebook.
-4. **Experiment Tracking**: Use MLflow for tracking experiments.
+[x] **Data Source**: Obtain student success prediction data from Kaggle.
+[x] **Problem Statement**: Develop scripts to predict student success using a random forest model.
+[x] **EDA**: Perform EDA using a Jupyter notebook.
+[x] **Experiment Tracking**: Use MLflow for tracking experiments.
 5. **Workflow Orchestration**: Automate scripts using Mage.
 6. **Monitoring**: Monitor model and data drift using Grafana.
 7. **Reproducibility**: Ensure reproducibility with detailed setup instructions.
